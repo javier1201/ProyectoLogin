@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010612889221",
+    "firebase_url": "https://hermespaq-e1372.firebaseio.com",
+    "project_id": "hermespaq-e1372",
+    "storage_bucket": "hermespaq-e1372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010612889221:android:97ca36a42db8c34f",
+        "android_client_info": {
+          "package_name": "com.example.hermespaq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010612889221-k3ldnkroe4l58q84sv9b0l2o6fogkd97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hermespaq",
+            "certificate_hash": "c780ed3906fc16022fd7d1aabc57067fac5c85e5"
+          }
+        },
+        {
+          "client_id": "1010612889221-tmpf4vf1qbh0aqf269uv88531q6hfrma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCg1shDCoi3b5MGwmUDrErHS4cDVDE1w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010612889221-tmpf4vf1qbh0aqf269uv88531q6hfrma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
