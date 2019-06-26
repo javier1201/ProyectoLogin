@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/javier/Documents/HermesPAQ/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml",
+            "outputFile": "/home/javier/StudioProjects/ProyectoLogin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml",
             "map": [
                 {
                     "source": "/home/javier/.gradle/caches/transforms-2/files-2.1/33ec55134db81b02218f90f2bce74aa1/res/values-tr/values.xml",

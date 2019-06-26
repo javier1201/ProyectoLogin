@@ -2,4 +2,6 @@
     <string name="app_name">HermesPAQ</string>
     <string name="title_activity_customers">Customers</string>
     <string name="title_activity_maps">Map</string>
+    <string name="com_auth0_client_id">1oBAEuEAxG6RjI4qleSad4jhi4340zlQ</string>
+    <string name="com_auth0_domain">hermespaq.auth0.com</string>
 </resources>

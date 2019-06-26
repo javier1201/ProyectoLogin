@@ -1,10 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:2:1-46:12
-INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:2:1-46:12
-INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:2:1-46:12
-INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:2:1-46:12
+ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:2:1-46:12
 MERGED from [com.android.support:design:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f6a61e270381ada74b6a163239da2cca/AndroidManifest.xml:17:1-24:12
+MERGED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:25:1-63:12
+MERGED from [com.auth0.android:jwtdecode:1.1.1] /home/javier/.gradle/caches/transforms-2/files-2.1/f6cc6c4713147e2229fa367f408d46fa/AndroidManifest.xml:2:1-12:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/a840215aedd987b3ffce489d923103c5/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/javier/.gradle/caches/transforms-2/files-2.1/9df885a0797f41e573f62e664ce4325c/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/javier/.gradle/caches/transforms-2/files-2.1/97d01b8eb192662b92ebbdab0a5d107a/AndroidManifest.xml:17:1-38:12
@@ -15,6 +17,7 @@ MERGED from [com.android.support:support-v4:26.1.0] /home/javier/.gradle/caches/
 MERGED from [com.android.support:support-fragment:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/c953eddf29a5d74e8c4635d118bbe72d/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/e2938b880719be549277507c8fe6696c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/bd8fba17cc97430d62024938573992c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/635d93cc34403a14c0e302220fd78a64/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/9b124540449a59b0ff59e2d6dea00489/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/ab91a9f879e63b0c4a9ce7852f7b9b3a/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/58a8355a07671993fba6c5a9b3ce2364/AndroidManifest.xml:17:1-22:12
@@ -41,31 +44,37 @@ MERGED from [com.android.support:interpolator:28.0.0] /home/javier/.gradle/cache
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/javier/.gradle/caches/transforms-2/files-2.1/958a28e77414f442eea6116ca8975b17/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/javier/.gradle/caches/transforms-2/files-2.1/d48543469ff46000a9a35a53c827912d/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /home/javier/.gradle/caches/transforms-2/files-2.1/4f8418180a17c342ebd58330405efc32/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:2:1-46:12
-INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:2:1-46:12
-INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:2:1-46:12
 	package
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:3:5-36
-		INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml
-		INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:2:1-46:12
-		INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml
+		INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:2:1-46:12
+		INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:2:1-46:12
-		INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml
+		INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:2:1-46:12
+		INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:2:11-69
-uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:10:5-79
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:10:5-67
+MERGED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:35:5-67
+MERGED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:35:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/javier/.gradle/caches/transforms-2/files-2.1/97d01b8eb192662b92ebbdab0a5d107a/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/javier/.gradle/caches/transforms-2/files-2.1/97d01b8eb192662b92ebbdab0a5d107a/AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:10:22-76
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:10:22-64
 application
-ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:12:5-44:19
+ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:12:5-44:19
 MERGED from [com.android.support:design:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f6a61e270381ada74b6a163239da2cca/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f6a61e270381ada74b6a163239da2cca/AndroidManifest.xml:22:5-20
+MERGED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:37:5-61:19
+MERGED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:37:5-61:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/javier/.gradle/caches/transforms-2/files-2.1/9df885a0797f41e573f62e664ce4325c/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/javier/.gradle/caches/transforms-2/files-2.1/9df885a0797f41e573f62e664ce4325c/AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/javier/.gradle/caches/transforms-2/files-2.1/97d01b8eb192662b92ebbdab0a5d107a/AndroidManifest.xml:30:5-36:19
@@ -87,57 +96,61 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /home/javier/.gradl
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/117014ad002bc23cdfc984c91498358a/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:17:9-35
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:17:9-35
 	android:label
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:15:9-41
 	android:roundIcon
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:16:9-54
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:16:9-54
 	android:icon
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:14:9-43
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:18:9-40
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:18:9-40
 meta-data#com.google.android.geo.API_KEY
-ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:28:9-30:55
+ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:28:9-30:55
 	android:value
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:30:13-52
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:30:13-52
 	android:name
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:29:13-58
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:29:13-58
 activity#com.example.hermespaq.MapsActivity
-ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:32:9-34:68
+ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:32:9-34:68
 	android:label
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:34:13-56
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:34:13-56
 	android:name
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:33:13-41
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:33:13-41
 activity#com.example.hermespaq.ProfileActivity
-ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:35:9-53
+ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:35:9-53
 	android:name
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:35:19-50
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:35:19-50
 activity#com.example.hermespaq.Customers
-ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:36:9-47
+ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:36:9-47
 	android:name
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:36:19-44
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:36:19-44
 activity#com.example.hermespaq.MainActivity
-ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:37:9-43:20
+ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:37:9-43:20
 	android:name
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:37:19-47
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:37:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:38:13-42:29
+ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:38:13-42:29
 action#android.intent.action.MAIN
-ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:39:17-69
+ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:39:17-69
 	android:name
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:39:25-66
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:39:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:41:17-77
+ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:41:17-77
 	android:name
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml:41:27-74
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml:41:27-74
 uses-sdk
-INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml
-INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml
+INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml
+INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:design:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f6a61e270381ada74b6a163239da2cca/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f6a61e270381ada74b6a163239da2cca/AndroidManifest.xml:20:5-44
+MERGED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:31:5-33:41
+MERGED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:31:5-33:41
+MERGED from [com.auth0.android:jwtdecode:1.1.1] /home/javier/.gradle/caches/transforms-2/files-2.1/f6cc6c4713147e2229fa367f408d46fa/AndroidManifest.xml:8:5-10:41
+MERGED from [com.auth0.android:jwtdecode:1.1.1] /home/javier/.gradle/caches/transforms-2/files-2.1/f6cc6c4713147e2229fa367f408d46fa/AndroidManifest.xml:8:5-10:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/a840215aedd987b3ffce489d923103c5/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/a840215aedd987b3ffce489d923103c5/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/javier/.gradle/caches/transforms-2/files-2.1/9df885a0797f41e573f62e664ce4325c/AndroidManifest.xml:5:5-7:41
@@ -158,6 +171,8 @@ MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/javier/.
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/e2938b880719be549277507c8fe6696c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/bd8fba17cc97430d62024938573992c9/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/bd8fba17cc97430d62024938573992c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/635d93cc34403a14c0e302220fd78a64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/635d93cc34403a14c0e302220fd78a64/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/9b124540449a59b0ff59e2d6dea00489/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/9b124540449a59b0ff59e2d6dea00489/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] /home/javier/.gradle/caches/transforms-2/files-2.1/ab91a9f879e63b0c4a9ce7852f7b9b3a/AndroidManifest.xml:20:5-44
@@ -210,26 +225,74 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/javier/.gradle/ca
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/javier/.gradle/caches/transforms-2/files-2.1/d48543469ff46000a9a35a53c827912d/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /home/javier/.gradle/caches/transforms-2/files-2.1/4f8418180a17c342ebd58330405efc32/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /home/javier/.gradle/caches/transforms-2/files-2.1/4f8418180a17c342ebd58330405efc32/AndroidManifest.xml:20:5-44
-INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml
-INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml
+INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml
+INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-v4:26.1.0] /home/javier/.gradle/caches/transforms-2/files-2.1/2979c831992327e6a1f7b3931d58f8d3/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml
-		INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml
+		INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml
-		ADDED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml
-		INJECTED from /home/javier/Documents/HermesPAQ/app/src/main/AndroidManifest.xml
+		INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml
+		ADDED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/javier/StudioProjects/ProyectoLogin/app/src/main/AndroidManifest.xml
+activity#com.auth0.android.provider.AuthenticationActivity
+ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:38:9-42:75
+	android:launchMode
+		ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:41:13-44
+	android:exported
+		ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:40:13-37
+	android:theme
+		ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:42:13-72
+	android:name
+		ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:39:13-77
+activity#com.auth0.android.provider.RedirectActivity
+ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:43:9-59:20
+	android:exported
+		ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:45:13-36
+	android:name
+		ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:44:13-71
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:${auth0Domain}+data:pathPrefix:/android/${applicationId}/callback+data:scheme:${auth0Scheme}
+ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:46:13-58:29
+	android:autoVerify
+		ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:47:17-42
+	tools:targetApi
+		ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:48:17-36
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/com_auth0_domain+data:pathPrefix:/android/com.example.hermespaq/callback+data:scheme:demo
+ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:46:13-58:29
+	android:autoVerify
+		ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:47:17-42
+	tools:targetApi
+		ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:48:17-36
+action#android.intent.action.VIEW
+ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:49:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:51:17-76
+	android:name
+		ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:51:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:52:17-78
+	android:name
+		ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:52:27-75
+data
+ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:54:17-57:55
+	android:host
+		ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:55:21-50
+	android:scheme
+		ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:57:21-52
+	android:pathPrefix
+		ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:56:21-76
+activity#com.auth0.android.provider.WebAuthActivity
+ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:60:9-79
+	android:name
+		ADDED from [com.auth0.android:auth0:1.16.0] /home/javier/.gradle/caches/transforms-2/files-2.1/f4e49cfd8996293fec2a0bdfa64c4350/AndroidManifest.xml:60:19-76
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/javier/.gradle/caches/transforms-2/files-2.1/97d01b8eb192662b92ebbdab0a5d107a/AndroidManifest.xml:23:5-79
 	android:name
 		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/javier/.gradle/caches/transforms-2/files-2.1/97d01b8eb192662b92ebbdab0a5d107a/AndroidManifest.xml:23:22-76
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/javier/.gradle/caches/transforms-2/files-2.1/97d01b8eb192662b92ebbdab0a5d107a/AndroidManifest.xml:24:5-67
-	android:name
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/javier/.gradle/caches/transforms-2/files-2.1/97d01b8eb192662b92ebbdab0a5d107a/AndroidManifest.xml:24:22-64
 uses-feature#0x00020000
 ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/javier/.gradle/caches/transforms-2/files-2.1/97d01b8eb192662b92ebbdab0a5d107a/AndroidManifest.xml:26:5-28:35
 	android:glEsVersion

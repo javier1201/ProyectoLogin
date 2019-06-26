@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HermesPAQ.iml" filepath="$PROJECT_DIR$/HermesPAQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectoLogin.iml" filepath="$PROJECT_DIR$/ProyectoLogin.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
